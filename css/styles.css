@@ -1,0 +1,89 @@
+/* styles.css */
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #f8f9fa;
+    padding: 10px;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  #hero {
+    background-color: #FFEEB3;
+    text-align: center;
+    padding: 100px 0;
+    color: #3dc248;
+  }
+  
+  #hero .hero-title {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #fff;
+  }
+  
+  #hero .hero-text {
+    font-size: 18px;
+    margin-bottom: 30px;
+    color: #fff;
+  }
+  
+  #hero .btn {
+    background-color: #fff;
+    color: #ff5500;
+    border-color: #fff;
+    transition: background-color 0.3s ease;
+  }
+  
+  #hero .btn:hover {
+    background-color: #ff5500;
+    color: #fff;
+  }
+ 
+
+  
+   /* footer {
+    text-align: center;
+    background-color: #f8f9fa;
+    padding: 10px;
+  }
+   */
+
+   /* Pets button  */
+   .card {
+    background-color: #f7c1c1e0;
+  }
+  
+  .custom-btn {
+    background-color: #FF0060;
+    border-color: #ff5500;
+  }
+  
+   footer {
+    background-color: #FFD3A3;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .contact-info p {
+    margin-bottom: 5px;
+  }
+  
+  .fa-phone, .fa-envelope {
+    margin-right: 5px;
+  }
+  

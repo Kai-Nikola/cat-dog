@@ -1,0 +1,26 @@
+body {
+    padding-top: 50px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar-brand {
+    font-size: 24px;
+  }
+  
+  #animal-list .card {
+    transition: transform 0.3s;
+  }
+  
+  #animal-list .card:hover {
+    transform: translateY(-5px);
+  }
+  
+  footer {
+    color: #fff;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
+  
